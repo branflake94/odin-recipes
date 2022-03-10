@@ -1,9 +1,13 @@
 h1 {
     font-size: 60px;
+    text-align: center;
 }
 
 h2 {
     font-size: 35px;
+    .poop {
+        text-align: center;
+    }
 }
 
 body {
@@ -18,4 +22,14 @@ p {
 
 li {
     color: #7A0BC0; 
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.poop {
+    text-align: center;
 }
