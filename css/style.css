@@ -19,7 +19,7 @@ p {
 }
 
 li {
-    color: #7A0BC0; 
+    color: #03045E; 
 }
 
 img {
@@ -34,4 +34,16 @@ ol {
 
 ul {
     list-style-position: inside;
+}
+
+a {
+    color: blue;
+}
+
+a:visited {
+    color: #7A0BC0;
+}
+
+a:hover {
+    color: #E77AF7;
 }
